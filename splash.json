@@ -72,6 +72,41 @@
 				"en": "Wong Tai Sin BBI - Wong Tai Sin Temple"
 			},
 			"orientation": "portrait"
-		}
+		},
+		{
+			"imageName": "nam_wah_po.jpg",
+			"description": {
+				"zh": "南華莆",
+				"en": "Nam Wah Po"
+			}
+		},
+		{
+			"imageName": "kowloon_tong_suffolk_road_public_transport_interchange.jpg",
+			"description": {
+				"zh": "九龍塘(沙福道)公共運輸交匯處",
+				"en": "Kowloon Tong (Suffolk Road) Public Transport Interchange"
+			}
+		},
+		{
+			"imageName": "kowloon_tong_station_1.jpg",
+			"description": {
+				"zh": "九龍塘站",
+				"en": "Kowloon Tong Station"
+			}
+		},
+		{
+			"imageName": "kowloon_tong_station_2.jpg",
+			"description": {
+				"zh": "九龍塘站",
+				"en": "Kowloon Tong Station"
+			}
+		},
+		{
+			"imageName": "kowloon_tong_station_3.jpg",
+			"description": {
+				"zh": "九龍塘站",
+				"en": "Kowloon Tong Station"
+			}
+		},
 	]
 }
