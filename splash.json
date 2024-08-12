@@ -107,6 +107,41 @@
 				"zh": "九龍塘站",
 				"en": "Kowloon Tong Station"
 			}
+		},
+		{
+			"imageName": "nina_tower_bus_terminus.jpg",
+			"description": {
+				"zh": "如心廣場巴士總站",
+				"en": "Nina Tower Bus Terminus"
+			}
+		},
+		{
+			"imageName": "kam_sheung_road_station_bus.jpg",
+			"description": {
+				"zh": "錦上路站",
+				"en": "Kam Sheung Road Station"
+			}
+		},
+		{
+			"imageName": "kam_sheung_road_station.jpg",
+			"description": {
+				"zh": "錦上路站",
+				"en": "Kam Sheung Road Station"
+			}
+		},
+		{
+			"imageName": "sheung_tsuen_bus_terminus.jpg",
+			"description": {
+				"zh": "上村巴士總站",
+				"en": "Sheung Tsuen Bus Terminus"
+			}
+		},
+		{
+			"imageName": "viewing_point_route_twisk.jpg",
+			"description": {
+				"zh": "荃錦公路觀景台",
+				"en": "Viewing Point (Route Twisk)"
+			}
 		}
 	]
 }
