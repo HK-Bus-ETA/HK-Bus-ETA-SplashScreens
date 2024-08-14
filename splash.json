@@ -142,6 +142,29 @@
 				"zh": "荃錦公路觀景台",
 				"en": "Viewing Point (Route Twisk)"
 			}
+		},
+		{
+			"imageName": "kai_tak_cruise_terminal.jpg",
+			"description": {
+				"zh": "啟德郵輪碼頭",
+				"en": "Kai Tak Cruise Terminal"
+			}
+		},
+		{
+			"imageName": "kai_tak_station_landscape.jpg",
+			"description": {
+				"zh": "啟德站",
+				"en": "Kai Tak Station"
+			},
+			"orientation": "landscape"
+		},
+		{
+			"imageName": "kai_tak_station.jpg",
+			"description": {
+				"zh": "啟德站",
+				"en": "Kai Tak Station"
+			},
+			"orientation": "portrait"
 		}
 	]
 }
