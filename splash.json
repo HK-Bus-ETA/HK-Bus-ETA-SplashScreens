@@ -165,6 +165,34 @@
 				"en": "Kai Tak Station"
 			},
 			"orientation": "portrait"
+		},
+		{
+			"imageName": "kwu_tung_market_shopping_centre.jpg",
+			"description": {
+				"zh": "古洞街市",
+				"en": "Kwu Tung Market Shopping Centre"
+			}
+		},
+		{
+			"imageName": "liu_pok.jpg",
+			"description": {
+				"zh": "料壆",
+				"en": "Liu Pok"
+			}
+		},
+		{
+			"imageName": "lo_wu_station.jpg",
+			"description": {
+				"zh": "羅湖站",
+				"en": "Lo Wu Station"
+			}
+		},
+		{
+			"imageName": "luen_wo_hui_bus_terminus.jpg",
+			"description": {
+				"zh": "聯和墟總站",
+				"en": "Luen Wo Hui Bus Terminus"
+			}
 		}
 	]
 }
