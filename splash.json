@@ -193,6 +193,104 @@
 				"zh": "聯和墟總站",
 				"en": "Luen Wo Hui Bus Terminus"
 			}
+		},
+		{
+			"imageName": "brides_pool.jpg",
+			"description": {
+				"zh": "新娘潭",
+				"en": "Bride's Pool"
+			}
+		},
+		{
+			"imageName": "chi_sum_road.jpg",
+			"description": {
+				"zh": "祠心路",
+				"en": "Chi Sum Road"
+			}
+		},
+		{
+			"imageName": "exhibition_centre_station.jpg",
+			"description": {
+				"zh": "會展站",
+				"en": "Exhibition Centre Station"
+			}
+		},
+		{
+			"imageName": "fu_heng_bus_terminus.jpg",
+			"description": {
+				"zh": "富亨總站",
+				"en": "Fu Heng Bus Terminus"
+			}
+		},
+		{
+			"imageName": "fu_tip_bus_terminus.jpg",
+			"description": {
+				"zh": "富蝶總站",
+				"en": "Fu Tip Bus Terminus"
+			}
+		},
+		{
+			"imageName": "kam_tin.jpg",
+			"description": {
+				"zh": "錦田",
+				"en": "Kam Tin"
+			}
+		},
+		{
+			"imageName": "lam_tei_station.jpg",
+			"description": {
+				"zh": "藍地站",
+				"en": "Lam Tei Station"
+			}
+		},
+		{
+			"imageName": "pat_heung_road_bus_terminus.jpg",
+			"description": {
+				"zh": "八鄉路總站(大欖隧道轉車站)",
+				"en": "Pat Heung Road Bus Terminus (Tai Lam Tunnel BBI)"
+			}
+		},
+		{
+			"imageName": "sau_shan_house_cheung_shan_estate.jpg",
+			"description": {
+				"zh": "象山邨秀山樓",
+				"en": "Sau Shan House Cheung Shan Estate"
+			}
+		},
+		{
+			"imageName": "lai_chi_kok_bay_garden.jpg",
+			"description": {
+				"zh": "荔灣花園",
+				"en": "Lai Chi Kok Bay Garden"
+			}
+		},
+		{
+			"imageName": "tai_mei_tuk_bus_terminus.jpg",
+			"description": {
+				"zh": "大美督總站",
+				"en": "Tai Mei Tuk Bus Terminus"
+			}
+		},
+		{
+			"imageName": "wu_kau_tang_bus_terminus.jpg",
+			"description": {
+				"zh": "烏蛟騰總站",
+				"en": "Wu Kau Tang Bus Terminus"
+			}
+		},
+		{
+			"imageName": "lai_chi_kok_bus_terminus.jpg",
+			"description": {
+				"zh": "荔枝角總站",
+				"en": "Lai Chi Kok Bus Terminus"
+			}
+		},
+		{
+			"imageName": "kwong_fuk_road_bbi.jpg",
+			"description": {
+				"zh": "廣福道轉車站",
+				"en": "Kwong Fuk Road BBI"
+			}
 		}
 	]
 }
