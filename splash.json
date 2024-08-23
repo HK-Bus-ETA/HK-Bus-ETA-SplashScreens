@@ -291,6 +291,55 @@
 				"zh": "廣福道轉車站",
 				"en": "Kwong Fuk Road BBI"
 			}
+		},
+		{
+			"imageName": "aircraft_maintenance_area.jpg",
+			"description": {
+				"zh": "廣福道轉車站",
+				"en": "Aircraft Maintenance Area"
+			}
+		},
+		{
+			"imageName": "tates_cairn_tunnel.jpg",
+			"description": {
+				"zh": "大老山隧道",
+				"en": "Tate's Cairn Tunnel"
+			}
+		},
+		{
+			"imageName": "apm_millennium_city_5.jpg",
+			"description": {
+				"zh": "apm創紀之城5期",
+				"en": "apm Millennium City 5"
+			}
+		},
+		{
+			"imageName": "kowloon_bay_station_bus.jpg",
+			"description": {
+				"zh": "九龍灣站",
+				"en": "Kowloon Bay Station"
+			}
+		},
+		{
+			"imageName": "diamond_hill_station_2.jpg",
+			"description": {
+				"zh": "鑽石山站",
+				"en": "Diamond Hill Station"
+			}
+		},
+		{
+			"imageName": "diamond_hill_station_1.jpg",
+			"description": {
+				"zh": "鑽石山站",
+				"en": "Diamond Hill Station"
+			}
+		},
+		{
+			"imageName": "kai_cheung_court.jpg",
+			"description": {
+				"zh": "啟翔苑",
+				"en": "Kai Cheung Court"
+			}
 		}
 	]
 }
