@@ -340,6 +340,55 @@
 				"zh": "啟翔苑",
 				"en": "Kai Cheung Court"
 			}
+		},
+		{
+			"imageName": "mong_kok_east_station.jpg",
+			"description": {
+				"zh": "旺角東站",
+				"en": "Mong Kok East Station"
+			}
+		},
+		{
+			"imageName": "sha_tau_kok_bus_terminus.jpg",
+			"description": {
+				"zh": "沙頭角總站",
+				"en": "Sha Tau Kok Bus Terminus"
+			}
+		},
+		{
+			"imageName": "ching_ho_estate.jpg",
+			"description": {
+				"zh": "清河邨",
+				"en": "Ching Ho Estate"
+			}
+		},
+		{
+			"imageName": "fu_tung_plaza.jpg",
+			"description": {
+				"zh": "富東廣場",
+				"en": "Fu Tung Plaza"
+			}
+		},
+		{
+			"imageName": "tung_chung_station.jpg",
+			"description": {
+				"zh": "東涌站",
+				"en": "Tung Chung Station"
+			}
+		},
+		{
+			"imageName": "mui_wo_ferry_pier.jpg",
+			"description": {
+				"zh": "梅窩碼頭",
+				"en": "Mui Wo Ferry Pier"
+			}
+		},
+		{
+			"imageName": "peng_chau_pier.jpg",
+			"description": {
+				"zh": "坪洲渡輪碼頭",
+				"en": "Peng Chau Ferry Pier"
+			}
 		}
 	]
 }
