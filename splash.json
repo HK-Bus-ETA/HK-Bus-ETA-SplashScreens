@@ -389,6 +389,48 @@
 				"zh": "坪洲渡輪碼頭",
 				"en": "Peng Chau Ferry Pier"
 			}
+		},
+		{
+			"imageName": "tai_tam_reservoir_south_tai_tam_road.jpg",
+			"description": {
+				"zh": "大潭水塘(南), 大潭道",
+				"en": "Tai Tam Reservoir (South), Tai Tam Road"
+			}
+		},
+		{
+			"imageName": "sai_wan_ho_station.jpg",
+			"description": {
+				"zh": "西灣河站",
+				"en": "Sai Wan Ho Station"
+			}
+		},
+		{
+			"imageName": "tai_tong_wong_nai_tun_tsuen.jpg",
+			"description": {
+				"zh": "大棠黃泥墩村",
+				"en": "Tai Tong Wong Nai Tun Tsuen"
+			}
+		},
+		{
+			"imageName": "shan_pui_road_near_shan_pui_hung_tin_tsuen.jpg",
+			"description": {
+				"zh": "山貝路, 近山貝洪田村",
+				"en": "Shan Pui Road, Near Shan Pui Hung Tin Tsuen"
+			}
+		},
+		{
+			"imageName": "repulse_bay_beach_repulse_bay_road.jpg",
+			"description": {
+				"zh": "淺水灣海灘, 淺水灣道",
+				"en": "Repulse Bay Beach, Repulse Bay Road"
+			}
+		},
+		{
+			"imageName": "blake_pier_at_stanley.jpg",
+			"description": {
+				"zh": "赤柱卜公碼頭",
+				"en": "Blake Pier At Stanley"
+			}
 		}
 	]
 }
