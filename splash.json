@@ -431,6 +431,62 @@
 				"zh": "赤柱卜公碼頭",
 				"en": "Blake Pier At Stanley"
 			}
+		},
+		{
+			"imageName": "sze_mei_street_san_po_kong.jpg",
+			"description": {
+				"zh": "新蒲崗四美街",
+				"en": "Sze Mei Street, San Po Kong"
+			}
+		},
+		{
+			"imageName": "asia_world_expo_station.jpg",
+			"description": {
+				"zh": "博覽館站",
+				"en": "AsiaWorld-Expo Station"
+			}
+		},
+		{
+			"imageName": "sky_city_bus_terminus.jpg",
+			"description": {
+				"zh": "航天城巴士總站",
+				"en": "Sky City Bus Terminus"
+			}
+		},
+		{
+			"imageName": "yu_nga_shopping_centre.jpg",
+			"description": {
+				"zh": "裕雅商場",
+				"en": "Yu Nga Shopping Centre"
+			}
+		},
+		{
+			"imageName": "island_harbourview_bus_terminus.jpg",
+			"description": {
+				"zh": "維港灣巴士總站",
+				"en": "Island Harbourview Bus Terminus"
+			}
+		},
+		{
+			"imageName": "chi_fu_landmark_chi_fu_road.jpg",
+			"description": {
+				"zh": "置富南區廣場, 置富道",
+				"en": "Chi Fu Landmark, Chi Fu Road"
+			}
+		},
+		{
+			"imageName": "lei_tung_station.jpg",
+			"description": {
+				"zh": "利東站",
+				"en": "Lei Tung Station"
+			}
+		},
+		{
+			"imageName": "kwun_tong_bbi_kwun_tong_town_centre.jpg",
+			"description": {
+				"zh": "觀塘轉車站 - 觀塘市中心",
+				"en": "Kwun Tong BBI - Kwun Tong Town Centre"
+			}
 		}
 	]
 }
