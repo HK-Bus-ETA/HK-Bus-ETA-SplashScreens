@@ -487,6 +487,20 @@
 				"zh": "觀塘轉車站 - 觀塘市中心",
 				"en": "Kwun Tong BBI - Kwun Tong Town Centre"
 			}
+		},
+		{
+			"imageName": "tung_ping_chau_public_pier.jpg",
+			"description": {
+				"zh": "東平洲公眾碼頭",
+				"en": "Tung Ping Chau Public Pier"
+			}
+		},
+		{
+			"imageName": "po_toi_o_pier.jpg",
+			"description": {
+				"zh": "布袋澳碼頭",
+				"en": "Po Toi O Pier"
+			}
 		}
 	]
 }
