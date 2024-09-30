@@ -109,6 +109,13 @@
 			}
 		},
 		{
+			"imageName": "kowloon_tong_station_4.jpg",
+			"description": {
+				"zh": "九龍塘站",
+				"en": "Kowloon Tong Station"
+			}
+		},
+		{
 			"imageName": "nina_tower_bus_terminus.jpg",
 			"description": {
 				"zh": "如心廣場巴士總站",
