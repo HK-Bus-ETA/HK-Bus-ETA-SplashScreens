@@ -508,6 +508,13 @@
 				"zh": "布袋澳碼頭",
 				"en": "Po Toi O Pier"
 			}
+		},
+		{
+			"imageName": "central_macau_ferry.jpg",
+			"description": {
+				"zh": "中環(港澳碼頭)",
+				"en": "Central (Macau Ferry)"
+			}
 		}
 	]
 }
