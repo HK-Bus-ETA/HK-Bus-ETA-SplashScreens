@@ -515,6 +515,20 @@
 				"zh": "中環(港澳碼頭)",
 				"en": "Central (Macau Ferry)"
 			}
+		},
+		{
+			"imageName": "yau_pok_road_light_public_housing_south_terminus.jpg",
+			"description": {
+				"zh": "攸壆路簡約公屋（南）巴士總站",
+				"en": "Yau Pok Road Light Public Housing (South) Terminus"
+			}
+		},
+		{
+			"imageName": "chek_lap_kok_south_road.jpg",
+			"description": {
+				"zh": "赤鱲角南路",
+				"en": "Chek Lap Kok South Road"
+			}
 		}
 	]
 }
