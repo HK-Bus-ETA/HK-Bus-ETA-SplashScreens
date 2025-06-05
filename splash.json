@@ -529,6 +529,13 @@
 				"zh": "赤鱲角南路",
 				"en": "Chek Lap Kok South Road"
 			}
+		},
+		{
+			"imageName": "peking_road.jpg",
+			"description": {
+				"zh": "北京道",
+				"en": "Peking Road"
+			}
 		}
 	]
 }
