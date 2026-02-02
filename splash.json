@@ -536,6 +536,13 @@
 				"zh": "北京道",
 				"en": "Peking Road"
 			}
+		},
+		{
+			"imageName": "lok_ma_chau_station_bus_terminus_upper_level.jpg",
+			"description": {
+				"zh": "落馬洲站總站（上層）",
+				"en": "Lok Ma Chau Station Bus Terminus (Upper Level)"
+			}
 		}
 	]
 }
