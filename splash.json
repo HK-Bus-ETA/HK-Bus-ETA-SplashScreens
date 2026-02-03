@@ -524,6 +524,14 @@
 			}
 		},
 		{
+			"imageName": "yau_pok_road_light_public_housing_south_terminus_2.jpg",
+			"description": {
+				"zh": "攸壆路簡約公屋（南）巴士總站",
+				"en": "Yau Pok Road Light Public Housing (South) Terminus"
+			},
+			"orientation": "landscape"
+		},
+		{
 			"imageName": "chek_lap_kok_south_road.jpg",
 			"description": {
 				"zh": "赤鱲角南路",
@@ -543,6 +551,14 @@
 				"zh": "落馬洲站總站（上層）",
 				"en": "Lok Ma Chau Station Bus Terminus (Upper Level)"
 			}
+		},
+		{
+			"imageName": "sai_sha_residences_transport_interchange.jpg",
+			"description": {
+				"zh": "西沙灣交通交匯處",
+				"en": "Sai Sha Residences Transport Interchange"
+			},
+			"orientation": "landscape"
 		}
 	]
 }
